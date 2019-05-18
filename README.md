@@ -3,7 +3,7 @@ Fullstack GraphQL shop
 
 
 ##### `1) Clone repo:`
-git clone https://github.com/Archaeologist03/react-todo
+git clone https://github.com/Archaeologist03/sick-fits
 
 ##### `2) Install needed packages`
 npm install
